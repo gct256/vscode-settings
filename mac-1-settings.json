@@ -169,7 +169,8 @@
   // php
 
   "[php]": {
-    "editor.tabSize": 4
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
 
   // --------------------------------------------------------------------------
@@ -258,7 +259,7 @@
   // --------------------------------------------------------------------------
   // prettier
 
-  "prettier.disableLanguages": ["php", "vue"],
+  "prettier.disableLanguages": [],
 
   // --------------------------------------------------------------------------
   // python
