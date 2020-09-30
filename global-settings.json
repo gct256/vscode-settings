@@ -44,7 +44,7 @@
 
   "editor.minimap.renderCharacters": false,
   "editor.minimap.showSlider": "always",
-  "editor.minimap.size": "fit",
+  "editor.minimap.size": "proportional",
 
   // editor.suggest
 
